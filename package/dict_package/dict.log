@@ -1,0 +1,6 @@
+INFO || 2022-01-30 00:18:50,979 || Class __init__ method initialize dict and check for valid dict || __init__ || 9 
+INFO || 2022-01-30 00:19:54,316 || Class __init__ method initialize dict and check for valid dict || __init__ || 9 
+INFO || 2022-01-30 00:21:44,132 || Class __init__ method initialize dict and check for valid dict || __init__ || 9 
+INFO || 2022-01-30 00:21:44,132 || dict is : {'a': 1, 'b': 2, 'c': 3} || __init__ || 12 
+INFO || 2022-01-30 00:21:44,132 || get_dict function called. || get_dict || 19 
+INFO || 2022-01-30 00:21:44,132 || get_dict function called. || get_dict_value || 28 
