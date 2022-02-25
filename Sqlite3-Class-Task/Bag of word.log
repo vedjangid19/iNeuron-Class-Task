@@ -1,0 +1,2 @@
+INFO || 2022-02-25 12:15:32,645 || Sqlite3_Class_Assinement  || create_database  ||  78  ||  Databse 'Dataset' and table 'BAGOFWORD' created
+INFO || 2022-02-25 12:15:32,908 || Sqlite3_Class_Assinement  || insert_data  ||  100  ||  Successfully Insert data in to database table
